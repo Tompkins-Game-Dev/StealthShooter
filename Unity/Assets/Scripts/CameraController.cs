@@ -18,7 +18,7 @@ public class CameraController : MonoBehaviour {
 		}
 		target = player.transform;
 	}
-		
+
 	void Update () {
 		if (cam != null && target != null) {
 			cam.transform.transform.position = new Vector3 (
