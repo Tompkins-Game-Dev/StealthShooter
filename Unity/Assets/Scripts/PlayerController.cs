@@ -9,7 +9,10 @@ public class PlayerController : MonoBehaviour {
 	private Camera cam;
 	private Rigidbody2D body;
 
+	public DialogueController d;
+
 	void Start() {
+		d = FindObjectOfType<DialogueController> ();
 		cam = Camera.main;
 		body = GetComponent <Rigidbody2D> ();
 	}
