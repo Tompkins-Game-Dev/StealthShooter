@@ -104,6 +104,7 @@
 'Assets/Scripts/CameraController.cs'
 'Assets/Scripts/DialogueController.cs'
 'Assets/Scripts/PlayerController.cs'
+'Assets/Scripts/TESTING/DialogueTest.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Xml.Linq.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/UnityScript.dll'
